@@ -8,3 +8,7 @@ Las tecnologias que actualmente me llaman la atencion especializarme, actualment
 Python (Para ciencia de datos)
 Javascript (Para tener una base solida para el Front-end)
 SQL (Para tener una base solida en consultas de Base de Datos)
+
+¿Por qué es importante GitHub?
+
+GitHub es importante porque facilita la colaboración en proyectos de software, permitiendo el control de versiones con Git, almacenamiento en la nube, trabajo en equipo y revisión de código. Además, es clave en el desarrollo profesional, ya que funciona como un portafolio para mostrar proyectos y contribuciones a la comunidad.
